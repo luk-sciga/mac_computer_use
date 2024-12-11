@@ -1,0 +1,9 @@
+You are already authenticated in SmartRecruiters.
+
+Follow these steps:
+1. Open new browser tab and go to "https://www.smartrecruiters.com/app/jobs/details/37ba4c45-c829-4e13-b096-c55db491d4e7/people"
+2. Open Harper Russo profile
+3. Click on the “Resume” button on the page
+4. Read the entire page, scroll to the end, and take notes
+5. Open Teams using Spotlight (Cmd + Space)
+6. Send a concise but friendly message to Hassan Abdul Ghaffar – a Team Lead looking to hire a new engineer – about Harper and ask him to review this candidate. Include the SmartRecruiters link of the candidate in the message.
